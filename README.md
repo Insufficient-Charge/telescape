@@ -1,37 +1,10 @@
-Welcome to Glitch
+Welcome to Telescape
 =================
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+Telescape is a project created for Google CSSI using p5.js with Google's Teachable Machine. This game will use image recognition in order to control a platform while an autonomous character moves across the screen. The goal is to use the platform-mechanics to guide the autonomous character to all keys and goals.
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+Authors: John Paul Bunn and Kaushik Vemparala
 
-Find out more [about Glitch](https://glitch.com/about).
+Note: These files started with a template provided by Google Engineers with an empty JavaScript file for immediate development.
 
-
-Your Project
-------------
-
-### ← README.md
-
-That's this file, where you can tell people what your cool website does and how you built it.
-
-### ← index.html
-
-Where you'll write the content of your website. 
-
-### ← style.css
-
-CSS files add styling rules to your content.
-
-### ← script.js
-
-If you're feeling fancy you can add interactivity to your site with JavaScript.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project
-
-Made by [Glitch](https://glitch.com/)
--------------------
-
-\ ゜o゜)ノ
+=================
